@@ -1,6 +1,7 @@
 # design-patterns-demo
 
-This is a demo application that shows real life usage of below design patterns:
+This is a demo application that shows real life usage of below design patterns.
+Code has been written using <b>SOLID, DRY, KISS, YAGNI</b> principles in mind.
 <ol>
   <li>Command : Command interface</li>
   <li>Chain of Responsibility : CommandExecutionChain and CommandExecutionStep</li>
